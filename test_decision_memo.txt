@@ -1,0 +1,113 @@
+======================================================================
+CAPITAL SLICE - WEEKLY POSITIONING DECISION MEMO
+======================================================================
+Week of: 2024-06-08
+Generated: 2025-12-02 16:11
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+Morning (7 AM - 12 PM):
+  • Truck A → Eastern Market (Score: 90.0)
+  • Truck B → Dupont Circle (Score: 68.0)
+
+Afternoon (2 PM - 8 PM):
+  • Truck A → Convention Center (RELOCATE) (Score: 235.0)
+  • Truck B → National Mall (RELOCATE) (Score: 73.0)
+
+Relocations Required:
+  • Truck A: Eastern Market → Convention Center
+  • Truck B: Dupont Circle → National Mall
+
+
+DETAILED POSITIONING ANALYSIS
+----------------------------------------------------------------------
+
+MORNING DEPLOYMENT (7 AM - 12 PM)
+
+Truck A: Eastern Market
+  Score: ███████████████░░░░░ 90.0
+  Rationale:
+    • No direct competition at this location
+    • Excellent morning location (5-star)
+
+Truck B: Dupont Circle
+  Score: ███████████░░░░░░░░░ 68.0
+  Rationale:
+    • Indirect competitor 'Taco Paradise' at location
+    • Strong morning location (4-star)
+
+
+AFTERNOON DEPLOYMENT (2 PM - 8 PM)
+
+Truck A: Convention Center (RELOCATE)
+  Score: ███████████████████████████████████████ 235.0
+  Decision: Net benefit of 160.0 points justifies relocation
+
+Truck B: National Mall (RELOCATE)
+  Score: ████████████░░░░░░░░ 73.0
+  Decision: Relocated to avoid conflict with Truck A; chose next best location
+
+
+WEATHER & EVENT ANALYSIS
+----------------------------------------------------------------------
+Weather Forecast:
+  Morning:   Drizzle | Temp: 58°F | Precip: 65%
+  Afternoon: Sunny | Temp: 72°F | Precip: 10%
+
+Scheduled Events:
+  • TechExpo DC 2024 at Convention Center
+    Time: afternoon | Crowd: 25,000 | Indoor: Yes
+  • Nationals Game - No Game Today at Navy Yard / The Wharf
+    Time: none | Crowd: 0 | Indoor: No
+
+Competitor Intelligence:
+  • Taco Paradise (tacos)
+    Morning: Dupont Circle
+    Afternoon: U Street Corridor
+  • The Slice Mobile (pizza)
+    Afternoon: U Street Corridor
+
+
+RISK ASSESSMENT & MITIGATION
+----------------------------------------------------------------------
+MODERATE RISKS:
+  • Morning: 65% precipitation probability. Outdoor locations at risk.
+     Mitigation: Consider prioritizing indoor event locations or having backup plan ready
+  • Event-dependent locations: Truck A at Convention Center (afternoon)
+     Mitigation: Verify event is confirmed. Have backup location ready if event cancels.
+
+
+
+BACKUP PLAN
+----------------------------------------------------------------------
+Primary Backup Location: Columbia Heights
+  Morning Score: 40.0 | Afternoon Score: 50.0
+  Rationale: Designated low-risk backup location with consistent moderate performance
+
+Alternative Morning Location: National Mall (Score: 65.0)
+Alternative Afternoon Location: Dupont Circle (Score: 70.0)
+
+
+EXPECTED REVENUE IMPACT
+----------------------------------------------------------------------
+Combined Morning Score:   158.0
+Combined Afternoon Score: 308.0
+Total Day Score:          466.0
+
+Assessment: EXCELLENT - Exceptionally strong positioning with major event opportunities
+
+
+ACTION ITEMS FOR FRIDAY PREP
+----------------------------------------------------------------------
+☐ Confirm event schedules (verify no cancellations)
+☐ Check updated weather forecast Friday evening
+☐ Prepare breakfast menu ingredients for morning positions
+☐ Prepare signature menu ingredients for afternoon positions
+☐ Plan relocation logistics (12-2 PM window)
+☐ Ensure both trucks have full fuel for relocation
+☐ Brief crew on positioning plan and backup options
+☐ Monitor competitor social media for location announcements
+
+======================================================================
+END OF MEMO
+======================================================================
